@@ -1,2 +1,4 @@
 # stepik_auto_tests_course
-домашние задания к курсу https://stepik.org/course/575/syllabus
+Домашние задания к курсу https://stepik.org/course/575/syllabus
+
+Загружаются с 3 блока.
